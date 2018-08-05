@@ -1,2 +1,5 @@
-# HomeKeeperHMI
-all HMI stuff related to HK-HMI
+# HomeKeeper Visual
+
+
+All graphical stuff related to HK application
+
